@@ -1180,6 +1180,15 @@ function mapCartItem() {
     totalprice(); // Update total price
 }
 
+// Function to clear the cart
+function clearCart() {
+  cart = []; // Empty the cart array
+  saveCart(); // Update local storage
+  updateCartCount(); // Reset cart count display
+  mapCartItem(); // Refresh the UI
+}
+
+
 // Increment quantity
 function incQty(index) {
     cart[index].quantity += 1;

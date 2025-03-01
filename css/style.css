@@ -101,6 +101,42 @@ img {
   color: var(--yellow);
 }
 
+
+/* Enable smooth scrolling for the whole page */
+html {
+  scroll-behavior: smooth;
+}
+
+.scrollToTop {
+  position: fixed;
+  bottom: 100px;
+  right: 51px;
+  background-color: var(--yellowDark);
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  display: flex
+;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+  text-decoration: none;
+  cursor: pointer;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+
+/* Hover effect */
+.scrollToTop:hover {
+  background-color: var(--yellow);
+  color: #ffffff;
+}
+
+
+
 /* whatsapp fab */
 .fab-container {
   position: fixed;
@@ -1468,6 +1504,11 @@ footer .companyImage a {
 font-weight: 600;
 font-style: normal;
 }
+
+#menu .wrap  .btn{
+  background-color: var(--yellow);
+  margin-top: 8px;
+}
 .wrap2{
   margin-bottom: 20px;
 }
@@ -1476,11 +1517,10 @@ font-style: normal;
   color: #000;
   border-color: var(--yellow);
 }
-.wrap2 button,.wrap2 button:hover,.wrap2 .btn-check:checked+.btn,.wrap2 button.active,.wrap2 button.show,.wrap2 button:first-child:active, :not(.wrap2 .btn-check)+.btn:active{
+.wrap2 button,.wrap2 button:hover,.wrap2 button.active,.wrap2 button.show{
   background-color: var(--yellow);
   color: #000;
   border-color: var(--yellow);
-  margin-left: 8px;
 }
 
 
@@ -1593,4 +1633,15 @@ width: 100%;
   color: gray;
   margin: 20px;
   display: none;
+}
+
+.modal-open .modal-footer .Mybtn {
+  display: inline-block;
+  padding: 6px 12px;
+  font-weight: 600;
+  color: black;
+  border-radius: 4px;
+  margin: 4px;
+  background-color: var(--yellow);
+  transition: all 0.5sease-in-out;
 }

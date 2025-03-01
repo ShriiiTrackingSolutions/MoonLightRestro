@@ -184,6 +184,20 @@
   .filterButtons .btn:nth-child(1) {
     margin-top: 8px;
   }
+  .filterButtons .btn {
+    margin-left: 8px;
+  }
+  
+  .sideBar .stickySideBar{
+    position: static;
+  }
+
+  .miniHeader {
+    padding: 4px 0;
+}
+.navbar-brand {
+  width: 4.5rem;
+}
 }
 
 @media screen and (max-width: 912px) {
@@ -359,6 +373,26 @@
     cursor: pointer;
     z-index: 1000;
   }
+  .scrollToTop {
+    position: fixed;
+    bottom: 58px;
+    right: 10px;
+    background-color: var(--yellowDark);
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex
+;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    text-decoration: none;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    transition: color 0.3sease, background-color 0.3sease;
+}
 }
 
 @media screen and (max-width: 575.98px) {
