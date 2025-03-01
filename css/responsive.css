@@ -185,7 +185,8 @@
     margin-top: 8px;
   }
   .filterButtons .btn {
-    margin-left: 8px;
+    padding: 8px 10px;
+    font-size: 14px;
   }
   
   .sideBar .stickySideBar{
@@ -198,6 +199,12 @@
 .navbar-brand {
   width: 4.5rem;
 }
+
+.offcanvas-lg.offcanvas-bottom {
+  height: 40vh;
+}
+
+
 }
 
 @media screen and (max-width: 912px) {
