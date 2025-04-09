@@ -42,7 +42,7 @@ img {
   color: #ffffff;
   font-weight: 400;
   font-size: 124px;
-  line-height: 155px;
+  line-height: 148px;
 }
 
 .display-new {
@@ -94,7 +94,7 @@ img {
 }
 .PriceH {
   font-family: 'Italianno';
-  font-size: 64px;
+  font-size: 54px;
   line-height: 45px;
   text-align: right;
   font-weight: 400;
@@ -343,9 +343,13 @@ header:not(#productImage .menu-item .item-info header) {
   left: 0;
 }
 .owl-carousel .one .display-3 {
-  width: 60%;
+  width: 66%;
   text-align: center;
   margin: auto;
+}
+.owl-carousel .one  .display-new {
+  color: var(--cream);
+  font-size: 50px;
 }
 .owl-carousel .item {
   position: relative;
@@ -354,7 +358,7 @@ header:not(#productImage .menu-item .item-info header) {
   position: absolute;
   left: 0;
   right: 0;
-  top: 30%;
+  top: 36%;
 }
 .owl-carousel .two .container {
   position: absolute;
@@ -1532,6 +1536,10 @@ font-style: normal;
 .imageContainer{
   margin-bottom: 8px;
 }
+.imageContainer img{
+  aspect-ratio: 1;
+  object-fit: cover;
+}
 
 .filterButtons{
   height: 100vh;
@@ -1594,6 +1602,8 @@ width: 100%;
 }
 #productImage .menu-item img{
   width: 30%;
+  aspect-ratio: 1;
+  object-fit: cover;
 }
 #productImage .menu-item .item-info{
   width: 70%;

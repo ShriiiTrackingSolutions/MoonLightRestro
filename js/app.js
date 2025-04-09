@@ -4,7 +4,7 @@ const menu = [
     title: "Fresh Chilled Coconut",
     category: "Welcome Drink(Appetizers)",
     price: 54,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/vegan-dairy-free-drink_23-2151920756.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_country_boost&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -12,7 +12,7 @@ const menu = [
     title: "Apple Juice",
     category: "Welcome Drink(Appetizers)",
     price: 66,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/front-view-fresh-apple-juice-with-fresh-apples-dark-drink-photo-color-cocktail-fruit_140725-92838.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_country_boost&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -20,7 +20,7 @@ const menu = [
     title: "Orange Juice",
     category: "Welcome Drink(Appetizers)",
     price: 44,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/sliced-oranges-with-juice-glass-jar-cup_114579-11763.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_country_boost&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -28,7 +28,7 @@ const menu = [
     title: "Sweet Lime Juice ",
     category: "Welcome Drink(Appetizers)",
     price: 155,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/glasses-with-lemonade-table_23-2148482456.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_country_boost&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -36,7 +36,7 @@ const menu = [
     title: "Pineapple Juice ",
     category: "Welcome Drink(Appetizers)",
     price: 15,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/slices-pineapple-pineapple-juice-wooden-board_114579-56170.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_country_boost&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -44,7 +44,7 @@ const menu = [
     title: "Pineapple Mosambi Juice ",
     category: "Welcome Drink(Appetizers)",
     price: 153,
-    img: "image/Pizza2.jfif",
+    img: "image/Pine-APPLE.webp",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -52,7 +52,7 @@ const menu = [
     title: "Black Grapes Juice ",
     category: "Welcome Drink(Appetizers)",
     price: 15,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/side-view-black-grape-juice-glass-basket-grapes-with-grape-berries-gray-background_141793-27301.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_country_boost&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -60,7 +60,7 @@ const menu = [
     title: "Black Grapes Pineapple Juice ",
     category: "Welcome Drink(Appetizers)",
     price: 13,
-    img: "image/Pizza2.jfif",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5x7INt5vDLF2Wf2_FNeG2aiiTeG4ufUwouj-qVNmsq5Rb_g2mLQH0ZfHWtiIbKtQyYKo&usqp=CAU",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -68,7 +68,7 @@ const menu = [
     title: "Cocktail Juice ",
     category: "Welcome Drink(Appetizers)",
     price: 18,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/freshness-summer-fruits-rustic-wooden-table-healthy-snack-generated-by-artificial-intelligence_188544-110093.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_country_boost&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -76,7 +76,7 @@ const menu = [
     title: "Water Melon Juice ",
     category: "Welcome Drink(Appetizers)",
     price: 13,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/high-angle-watermelon-slices-juice_23-2148293842.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_country_boost&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -84,7 +84,7 @@ const menu = [
     title: "Guava Juice ",
     category: "Welcome Drink(Appetizers)",
     price: 15,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/homemade-ice-tea-flavoured-with-apple_140725-1797.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_country_boost&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -92,7 +92,7 @@ const menu = [
     title: "Ganga Jamuna ",
     category: "Welcome Drink(Appetizers)",
     price: 156,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/two-glass-cups-orange-juice-with-wooden-reamer_114579-53629.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_country_boost&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -100,7 +100,7 @@ const menu = [
     title: "Cream of Tomato ",
     category: "Soup",
     price: 129,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/warm-tomato-soup-serve-bowl_1150-42621.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_country_boost&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -108,7 +108,7 @@ const menu = [
     title: "Cream if Veg. ",
     category: "Soup",
     price: 1,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/top-view-tasty-meat-soup-with-fresh-vegetables-dark-table-photo-dish-food-color_140725-81730.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_country_boost&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -116,7 +116,7 @@ const menu = [
     title: "Minestorone ",
     category: "Soup",
     price: 13,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/front-view-delicious-soup-inside-plate-with-spoon-dark-desk_140725-38051.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_country_boost&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -124,7 +124,7 @@ const menu = [
     title: "Sweet Corn ",
     category: "Soup",
     price: 15,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/roasted-red-pepper-hummus-white-bowl-white-marble-background_123827-28767.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_country_boost&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -132,7 +132,7 @@ const menu = [
     title: "Sweet Corn Veg. ",
     category: "Soup",
     price: 17,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/chiken-soup-potato-spices-rice-side-view_140725-9103.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_country_boost&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -140,7 +140,7 @@ const menu = [
     title: "Chili Bean ",
     category: "Soup",
     price: 19,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/horizontal-view-tomato-soup-beans-garlic-wooden-cutting-board-spoon-mix-color-table_140725-86854.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_country_boost&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -148,7 +148,7 @@ const menu = [
     title: "Palak Corn ",
     category: "Soup",
     price: 144,
-    img: "image/Pizza2.jfif",
+    img: "https://www.spiceupthecurry.com/wp-content/uploads/2016/06/corn-palak-curry-recipe-12.jpg",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -156,7 +156,7 @@ const menu = [
     title: "Green Peas ",
     category: "Soup",
     price: 133,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/green-pea-soup-wooden-bowl_123827-21618.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_country_boost&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -164,7 +164,7 @@ const menu = [
     title: "Hot-N-Sour ",
     category: "Soup",
     price: 155,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/ukrainian-russian-national-red-soup-borsch-closeup_2829-13741.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_country_boost&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -172,7 +172,7 @@ const menu = [
     title: "Tomato Corn Cheese ",
     category: "Soup",
     price: 122,
-    img: "image/Pizza2.jfif",
+    img: "https://healthyfitnessmeals.com/wp-content/uploads/2020/10/MEXICAN-CHARRED-SWEETCORN-SOUP_-7.jpg",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -180,7 +180,7 @@ const menu = [
     title: "Almond ",
     category: "Soup",
     price: 19,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/dry-fruits-topping-oatmeal-bowl-placemat_23-2147872680.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_country_boost&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -188,7 +188,7 @@ const menu = [
     title: "Brocoli Almond ",
     category: "Soup",
     price: 159,
-    img: "image/Pizza2.jfif",
+    img: "https://stemandspoon.com/wp-content/uploads/2023/03/broccoli-almond-soup-featured-720x720.jpg",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -196,7 +196,7 @@ const menu = [
     title: "Cheese Paneer Samosa ",
     category: "Starters ",
     price: 18,
-    img: "image/Pizza2.jfif",
+    img: "https://i0.wp.com/paattiskitchen.com/wp-content/uploads/2023/04/kmc_20230401_003543-1.jpg?resize=1024%2C576&ssl=1",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -204,7 +204,7 @@ const menu = [
     title: "Mutter Samosa ",
     category: "Starters ",
     price: 144,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/stuffed-samosas-beef-tacos-homemade-guacamole-generated-by-ai_188544-37402.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_country_boost&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -212,7 +212,7 @@ const menu = [
     title: "Mutter Corm Samosa ",
     category: "Starters ",
     price: 19,
-    img: "image/Pizza2.jfif",
+    img: "https://cookingfromheart.com/wp-content/uploads/2018/08/Aloo-Samosa-6.jpg",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -220,7 +220,7 @@ const menu = [
     title: "Corn Paneer Samosa ",
     category: "Starters ",
     price: 13,
-    img: "image/Pizza2.jfif",
+    img: "https://i0.wp.com/www.sinamontales.com/dotcord/uploads/2015/11/corn-and-paneer-samosa-recipe.1024x1024.jpg?resize=1000%2C665&ssl=1",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -228,7 +228,7 @@ const menu = [
     title: "Mix Veg. Samosa ",
     category: "Starters ",
     price: 188,
-    img: "image/Pizza2.jfif",
+    img: "https://img1.exportersindia.com/product_images/bc-full/dir_90/2696270/mix-veg-samosa-1478507982-2534126.jpeg",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -236,47 +236,16 @@ const menu = [
     title: "Cheese Paneer Samosa ",
     category: "Starters ",
     price: 133,
-    img: "image/Pizza2.jfif",
+    img: "https://images.squarespace-cdn.com/content/5ea3b22556f3d073f3d9cae4/1639765720513-GWUONGJA746IE3P2JAQC/Screen+Shot+2021-12-17+at+3.43.02+AM.png?format=1500w&content-type=image%2Fpng",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
-  {
-    id: 72,
-    title: "Mutter Samosa ",
-    category: "Starters ",
-    price: 15.99,
-    img: "image/Pizza2.jfif",
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
-  },
-  {
-    id: 73,
-    title: "Mutter Corm Samosa ",
-    category: "Starters ",
-    price: 15.99,
-    img: "image/Pizza2.jfif",
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
-  },
-  {
-    id: 74,
-    title: "Corn Paneer Samosa ",
-    category: "Starters ",
-    price: 15.99,
-    img: "image/Pizza2.jfif",
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
-  },
-  {
-    id: 75,
-    title: "Mix Veg. Samosa ",
-    category: "Starters ",
-    price: 15.99,
-    img: "image/Pizza2.jfif",
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
-  },
+ 
   {
     id: 76,
     title: "Cheese Ball ",
     category: "Starters ",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/delicious-food-croquettes-close-up_23-2149202667.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_country_boost&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -284,7 +253,7 @@ const menu = [
     title: "Veg. Balls ",
     category: "Starters ",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/meatballs-green-peas-carrot-with-tomato-sauce-wooden-table_123827-31479.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_country_boost&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -292,7 +261,7 @@ const menu = [
     title: "Petha Kaju Badam Halwa ",
     category: "Sweet",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://www.shutterstock.com/image-photo/almond-halva-badam-halwa-highly-260nw-2171130871.jpg",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -300,7 +269,7 @@ const menu = [
     title: "Moong Dal halwa ",
     category: "Sweet",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/close-up-spicy-indian-food-dish_23-2148295015.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_country_boost&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -308,7 +277,7 @@ const menu = [
     title: "Dry Fruit Halwa ",
     category: "Sweet",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/traditional-azerbaijan-indian-turkish-sweet-dessert-halvah-with-nuts-top_114579-1311.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_country_boost&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -316,7 +285,7 @@ const menu = [
     title: "Dudhi Halwa ",
     category: "Sweet",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://www.nehascookbook.com/wp-content/uploads/2020/11/Pressure-cooker-dudhi-halwa-WS-500x500.jpg",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -324,7 +293,7 @@ const menu = [
     title: "Gajar Halwa ",
     category: "Sweet",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://i0.wp.com/kalimirchbysmita.com/wp-content/uploads/2016/01/Gajar-ka-Halwa-03-1024x683.jpg?resize=1024%2C683",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -1010,6 +979,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 // ✅ Keeps your original function for search, filter, and sorting
+/* <strong>$${value.price}</strong>  */
 function display(menuItems) {
   let dis = menuItems.map(function (value, index) {
       return `
@@ -1019,7 +989,6 @@ function display(menuItems) {
                   <img src="${value.img}" alt="image">
               </div>
               <h4>${value.title}</h4>
-              <strong>$${value.price}</strong>
               <button class="btn" data-id="all" onclick="AddtoCart(${index})">Add to Cart</button>
           </div>
       </div>`;
@@ -1046,10 +1015,9 @@ let categories = menu.reduce(function(pre,value)
 },[]).map(function (value) {
   return ` <button type="button" class="btn" data-id="all" onclick="filterData('${value}')">${value}</button>`
 })
+{/* <button type="button" class="btn" data-id="all" onclick="sortDataN('price','Desc')">High to Low</button>
+<button type="button" class="btn" data-id="all" onclick="sortDataN('price','Asc')">Low to High</button> */}
 document.getElementById('btn').innerHTML = `  
-
-<button type="button" class="btn" data-id="all" onclick="sortDataN('price','Desc')">High to Low</button>
-<button type="button" class="btn" data-id="all" onclick="sortDataN('price','Asc')">Low to High</button>
 <button type="button" class="btn" data-id="all" onclick="sortDataS('title','Asc')">A to Z</button>
 <button type="button" class="btn" data-id="all" onclick="sortDataS('title','Desc')">Z to A</button>` + categories.join(' ') + `<button type="button" class="btn" data-id="all" onclick="displayAll()">All</button>
 `
@@ -1110,18 +1078,18 @@ function sortDataS(props, order) {
 }
 
 // Sorting Methods 
-function sortDataN(props, order) {
-  menu.sort(function (a, b) {
-    if (order == 'Desc') {
-      return b[props] - a[props];
-    }
-    else {
-      return a[props] - b[props];
-    }
-  })
-  display(menu);
+// function sortDataN(props, order) {
+//   menu.sort(function (a, b) {
+//     if (order == 'Desc') {
+//       return b[props] - a[props];
+//     }
+//     else {
+//       return a[props] - b[props];
+//     }
+//   })
+//   display(menu);
 
-}
+// }
 
 // Load cart from local storage or initialize it
 let cart = JSON.parse(localStorage.getItem("cart")) || [];
