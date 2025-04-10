@@ -2,15 +2,41 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="icon" type="image/x-icon" href="image/Fevicon.webp">
-  <title>Restaurant</title>
-  <script src="https://kit.fontawesome.com/52ca9e0df4.js" crossorigin="anonymous"></script>
-  <link rel="stylesheet" href="css/bootstrap.min.css">
-  <link rel="stylesheet" href="css/owl.carousel.css">
-  <link rel="stylesheet" href="css/style.css">
-  <link rel="stylesheet" href="css/responsive.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moonlight Restaurant</title>
+
+      <!-- Meta Robots (SEO Indexing): -->
+      <meta name="robots" content="index, follow">
+      <meta name="description" content="Moonlight Restaurant offers an unforgettable dining experience in the heart of the city's most luxurious district. Enjoy gourmet cuisine, a vibrant sports café atmosphere, and top-tier hospitality.">
+      <meta name="keywords" content="Moonlight Restaurant, fine dining, sports café, luxury restaurant, best restaurant in city, gourmet cuisine, city nightlife, upscale dining, game night restaurant, urban food experience">
+      <meta name="author" content="Moonlight Restaurant Team">
+      
+      <!-- Open Graph (For Social Media Sharing) -->
+      <meta property="og:title" content="Moonlight Restaurant | Fine Dining Meets Sports Café Vibes">
+      <meta property="og:description" content="Discover Moonlight Restaurant — where upscale dining meets lively sports energy. A perfect place to unwind with gourmet food, handcrafted drinks, and live sports.">
+      <!-- <meta property="og:url" content="https://moonlightrestaurant.in">
+      <meta property="og:image" content="https://moonlightrestaurant.in/images/og-preview.jpg"> -->
+      <meta property="og:type" content="website">
+      
+      <link rel="icon" type="image/x-icon" href="image/Fevicon.webp" /> 
+
+      <link fetchpriority="high" rel="preload" href="image/MoonLightLogo.webp" as="image" type="image/webp" />
+      <link fetchpriority="high" rel="preload" href="image/BannerImage1.jpg" as="image" type="image/jpg" />
+      <!-- Preload -->
+      <link rel="preload" as="style" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" />
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" />
+      <link rel="preload" as="style" href="css/responsive.css" />
+      <link rel="preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
+      <!-- <script async src="js/dynamic.js"></script> -->
+      <link rel="stylesheet" href="css/style.css" />
+      <link rel="stylesheet" href="css/responsive.css" />
+      <!-- LightGallery CSS -->
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightgallery@2.7.1/css/lightgallery-bundle.min.css" />
+      <link rel="preconnect" href="https://kit.fontawesome.com" />
+      <link rel="dns-prefetch" href="https://kit.fontawesome.com" />
+      <script src="https://kit.fontawesome.com/52ca9e0df4.js" crossorigin="anonymous"></script>
 </head>
 
 <body>
@@ -219,7 +245,7 @@
                   class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i>
               </div>
               <div class="col-auto align-self-start pe-3">
-                <strong class="PriceH">$8</strong>
+                <strong class="PriceH">₹80</strong>
               </div>
             </div>
           </div>
@@ -426,45 +452,64 @@
   <!-- Gallery section start -->
   <section class="Gallery defaultPadding">
     <div class="container">
-      <h2 class="secH  BefAftStyle">Gallery</h2>
-      <div class="row">
-
-        <div class="col-lg-4 col-md-8 ">
+      <h2 class="secH BefAftStyle">Gallery</h2>
+      <div id="lightgallery" class="row">
+  
+        <div class="col-lg-4 col-md-8">
           <div class="zoomWrap">
-            <img class="zoom" src="https://img.freepik.com/free-photo/horizontal-view-tomato-soup-beans-garlic-wooden-cutting-board-spoon-mix-color-table_140725-86854.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_country_boost&w=740" alt="image">
+            <a class="gallery-items" href="https://img.freepik.com/free-photo/horizontal-view-tomato-soup-beans-garlic-wooden-cutting-board-spoon-mix-color-table_140725-86854.jpg" >
+              <img class="zoom" src="https://img.freepik.com/free-photo/horizontal-view-tomato-soup-beans-garlic-wooden-cutting-board-spoon-mix-color-table_140725-86854.jpg" alt="image">
+            </a>
           </div>
         </div>
-        <div class="col-lg-8 ">
+  
+        <div class="col-lg-8">
           <div class="row">
-            <div class="col  d-flex flex-wrap flex-column">
+            <div class="col d-flex flex-wrap flex-column">
               <div class="zoomWrap">
-                <img class="zoom" src="https://img.freepik.com/free-photo/side-view-black-grape-juice-glass-basket-grapes-with-grape-berries-gray-background_141793-27301.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_country_boost&w=740" alt="">
+                <a class="gallery-items" href="https://img.freepik.com/free-photo/side-view-black-grape-juice-glass-basket-grapes-with-grape-berries-gray-background_141793-27301.jpg" >
+                  <img class="zoom" src="https://img.freepik.com/free-photo/side-view-black-grape-juice-glass-basket-grapes-with-grape-berries-gray-background_141793-27301.jpg" alt="">
+                </a>
               </div>
               <div class="zoomWrap">
-                <img class="zoom" src="https://img.freepik.com/free-photo/warm-tomato-soup-serve-bowl_1150-42621.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_country_boost&w=740" alt="">
-              </div>
-            </div>
-            <div class="col  d-flex flex-wrap flex-column">
-              <div class="zoomWrap">
-                <img class="zoom" src="https://img.freepik.com/free-photo/ukrainian-russian-national-red-soup-borsch-closeup_2829-13741.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_country_boost&w=740" alt="">
-              </div>
-              <div class="zoomWrap">
-                <img class="zoom" src="https://img.freepik.com/free-photo/meatballs-green-peas-carrot-with-tomato-sauce-wooden-table_123827-31479.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_country_boost&w=740" alt="">
+                <a class="gallery-items" href="https://img.freepik.com/free-photo/warm-tomato-soup-serve-bowl_1150-42621.jpg" >
+                  <img class="zoom" src="https://img.freepik.com/free-photo/warm-tomato-soup-serve-bowl_1150-42621.jpg" alt="">
+                </a>
               </div>
             </div>
-            <div class="col  d-flex flex-wrap flex-column">
+  
+            <div class="col d-flex flex-wrap flex-column">
               <div class="zoomWrap">
-                <img class="zoom" src="https://images.squarespace-cdn.com/content/5ea3b22556f3d073f3d9cae4/1639765720513-GWUONGJA746IE3P2JAQC/Screen+Shot+2021-12-17+at+3.43.02+AM.png?format=1500w&content-type=image%2Fpng" alt="">
+                <a class="gallery-items" href="https://img.freepik.com/free-photo/ukrainian-russian-national-red-soup-borsch-closeup_2829-13741.jpg" >
+                  <img class="zoom" src="https://img.freepik.com/free-photo/ukrainian-russian-national-red-soup-borsch-closeup_2829-13741.jpg" alt="">
+                </a>
               </div>
               <div class="zoomWrap">
-                <img class="zoom" src="https://img.freepik.com/free-photo/top-view-tasty-meat-soup-with-fresh-vegetables-dark-table-photo-dish-food-color_140725-81730.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_country_boost&w=740" alt="">
+                <a class="gallery-items" href="https://img.freepik.com/free-photo/meatballs-green-peas-carrot-with-tomato-sauce-wooden-table_123827-31479.jpg" >
+                  <img class="zoom" src="https://img.freepik.com/free-photo/meatballs-green-peas-carrot-with-tomato-sauce-wooden-table_123827-31479.jpg" alt="">
+                </a>
+              </div>
+            </div>
+  
+            <div class="col d-flex flex-wrap flex-column">
+              <div class="zoomWrap">
+                <a class="gallery-items" href="https://images.squarespace-cdn.com/content/5ea3b22556f3d073f3d9cae4/1639765720513-GWUONGJA746IE3P2JAQC/Screen+Shot+2021-12-17+at+3.43.02+AM.png" >
+                  <img class="zoom" src="https://images.squarespace-cdn.com/content/5ea3b22556f3d073f3d9cae4/1639765720513-GWUONGJA746IE3P2JAQC/Screen+Shot+2021-12-17+at+3.43.02+AM.png" alt="">
+                </a>
+              </div>
+              <div class="zoomWrap">
+                <a class="gallery-items" href="https://img.freepik.com/free-photo/top-view-tasty-meat-soup-with-fresh-vegetables-dark-table-photo-dish-food-color_140725-81730.jpg" >
+                  <img class="zoom" src="https://img.freepik.com/free-photo/top-view-tasty-meat-soup-with-fresh-vegetables-dark-table-photo-dish-food-color_140725-81730.jpg" alt="">
+                </a>
               </div>
             </div>
           </div>
         </div>
+  
       </div>
     </div>
   </section>
+  
 
   <!-- Gallery section End -->
 
@@ -566,11 +611,31 @@
   </footer>
 
   <!-- Footer Section End -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
 
-  <script src="js/jquery.min.js"></script>
-  <script src="js/owl.carousel.js"></script>
-  <script src="js/bootstrap.bundle.min.js"></script>
+
+  <!-- LightGallery JS -->
+  <script src="https://cdn.jsdelivr.net/npm/lightgallery@2.7.1/lightgallery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/lightgallery@2.7.1/plugins/zoom/lg-zoom.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/lightgallery@2.7.1/plugins/autoplay/lg-autoplay.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/lightgallery@2.7.1/plugins/fullscreen/lg-fullscreen.min.js"></script>
   <script src="js/script.js"></script>
+
+  <script>
+    lightGallery(document.getElementById('lightgallery'), {
+      plugins: [lgZoom, lgAutoplay, lgFullscreen],
+      selector: '.gallery-items',
+      speed: 500,
+      zoom: true,
+      autoplay: true,
+      fullscreen: true,
+      download: false
+    });
+  </script>
+  
+
   <script>
     $('#ca1').owlCarousel({
       stagePadding: 0,

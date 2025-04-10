@@ -191,14 +191,7 @@ const menu = [
     img: "https://stemandspoon.com/wp-content/uploads/2023/03/broccoli-almond-soup-featured-720x720.jpg",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
-  {
-    id: 66,
-    title: "Cheese Paneer Samosa ",
-    category: "Starters ",
-    price: 18,
-    img: "https://i0.wp.com/paattiskitchen.com/wp-content/uploads/2023/04/kmc_20230401_003543-1.jpg?resize=1024%2C576&ssl=1",
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
-  },
+ 
   {
     id: 67,
     title: "Mutter Samosa ",
@@ -301,7 +294,7 @@ const menu = [
     title: "Kaju Halwa ",
     category: "Sweet",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sooji_Halwa.JPG/800px-Sooji_Halwa.JPG?20160710115419",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -309,7 +302,7 @@ const menu = [
     title: "Kaju Akrot Halwa ",
     category: "Sweet",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://zeroguiltbyarchana.com/wp-content/uploads/2021/03/Akhrot-Halwa-scaled.jpg",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -317,7 +310,7 @@ const menu = [
     title: "Badam Halwa ",
     category: "Sweet",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://kiipfit.com/wp-content/uploads/2024/09/badam-halwa-4.jpg",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -325,7 +318,7 @@ const menu = [
     title: "Pista Halwa ",
     category: "Sweet",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://naturallynidhi.com/wp-content/uploads/2021/04/Quick-Atta-Badam-Halwa-Wheat-Almond-Halwa-Cover.jpg",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -333,7 +326,7 @@ const menu = [
     title: "Fresh Coconut Halwa ",
     category: "Sweet",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://www.blendwithspices.com/wp-content/uploads/2023/03/coconut-halwa-recipe.jpg",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -341,7 +334,7 @@ const menu = [
     title: "Anjeer Halwa ",
     category: "Sweet",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://images.news18.com/webstories/uploads/2024/10/anjeer-ka-halwa-fig-sheera-halva_466689-82442-2024-10-8a0ca695aeddcfd613b27a1edc092763.jpg",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -349,7 +342,7 @@ const menu = [
     title: "Rajwadi Halwa ",
     category: "Sweet",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img-global.cpcdn.com/recipes/530c2341818b5bdc/680x964cq70/%E0%A4%A6%E0%A4%A8%E0%A4%A6%E0%A4%B0-%E0%A4%AE%E0%A4%B0%E0%A4%B5%E0%A4%A1-%E0%A4%9A%E0%A4%B0%E0%A4%AE-danedaar-marwadi-churma-recipe-in-hindi-%E0%A4%B0%E0%A4%B8%E0%A4%AA-%E0%A4%AE%E0%A4%96%E0%A4%AF-%E0%A4%A4%E0%A4%B8%E0%A4%B5%E0%A4%B0.webp",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -357,7 +350,7 @@ const menu = [
     title: "Patties ",
     category: "Farshan",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/triangled-shape-bourekas-baked-pie-with-sesame-seeds_140725-10794.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_hybrid&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -365,7 +358,7 @@ const menu = [
     title: "Lilva Kachori ",
     category: "Farshan",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/boiled-eggs-stir-fried-with-tamarind-sauce_1150-22276.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_hybrid&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -373,7 +366,7 @@ const menu = [
     title: "Punjabi Samosa ",
     category: "Farshan",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/high-angle-plate-with-pakistani-food_23-2148825158.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_hybrid&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -381,7 +374,7 @@ const menu = [
     title: "Mutter Samosa ",
     category: "Farshan",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/stuffed-samosas-beef-tacos-homemade-guacamole-generated-by-ai_188544-37402.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_country_boost&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -389,7 +382,7 @@ const menu = [
     title: "Paneer Samosa ",
     category: "Farshan",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://images.squarespace-cdn.com/content/5ea3b22556f3d073f3d9cae4/1639765720513-GWUONGJA746IE3P2JAQC/Screen+Shot+2021-12-17+at+3.43.02+AM.png?format=1500w&content-type=image%2Fpng",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -397,7 +390,7 @@ const menu = [
     title: "Patra Samosa ",
     category: "Farshan",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://4.bp.blogspot.com/-Skrr8QTzFuk/UXH6mReFONI/AAAAAAAAIZo/Leh6Vsyu6d0/s1600/IMG_6857.JPG",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -405,7 +398,7 @@ const menu = [
     title: "Chinese Samosa ",
     category: "Farshan",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/deep-fried-samosas-dumplings-gourmet-appetizer-generated-by-ai_188544-13491.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_hybrid&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -413,7 +406,7 @@ const menu = [
     title: "Mutter Ghughara ",
     category: "Farshan",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/view-delicious-food-dish_23-2150777845.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_hybrid&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -421,7 +414,7 @@ const menu = [
     title: "Tuver Ghughara ",
     category: "Farshan",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/pumpkin-empanadillas-halloween-thanksgivings-day-wooden-table_123827-33801.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_hybrid&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -429,7 +422,7 @@ const menu = [
     title: "Aloo Ghughara ",
     category: "Farshan",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/view-delicious-food-dish_23-2150777843.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_hybrid&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -437,7 +430,7 @@ const menu = [
     title: "Paneer Corn Ghughara ",
     category: "Farshan",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "image/Paneer_Corn_Ghugara_Image.png",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -445,7 +438,7 @@ const menu = [
     title: "Veg. Cutlets ",
     category: "Farshan",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://www.whiskaffair.com/wp-content/uploads/2020/09/Veg-Cutlet-2-3.jpg",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
 
@@ -454,7 +447,7 @@ const menu = [
     title: "Rajasthani Aloo",
     category: "Seasonal Vegetables",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/side-view-vegetable-ragout-with-potato-carrot-cauliflower-basil_141793-5151.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_hybrid&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -462,7 +455,7 @@ const menu = [
     title: "Kashmiri Aloo ",
     category: "Seasonal Vegetables",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/side-view-fried-eggplants-potatoes-with-chili-sauce-plate_141793-2640.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_hybrid&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -470,7 +463,7 @@ const menu = [
     title: "Jodhpuri Aloo ",
     category: "Seasonal Vegetables",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/top-view-chicken-soup-with-ingredients_140725-149720.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_hybrid&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -478,7 +471,7 @@ const menu = [
     title: "Aloo Capsicum ",
     category: "Seasonal Vegetables",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/meat-stew-plate-with-potatoes-pepper-herbs-onion-pomegranate_176474-6839.jpg?t=st=1744272069~exp=1744275669~hmac=b3ef856483611adc25214c4f5295c81bfcb882ef74e1a8350156f9289fc14972&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -486,7 +479,7 @@ const menu = [
     title: "Aloo Suki Bhaji ",
     category: "Seasonal Vegetables",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/french-fries-potato-wedges_2829-11286.jpg?t=st=1744272149~exp=1744275749~hmac=af7b77103b359c2bebaf456829c730d4e979fe4738d42c28b7d12e4174a18340&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -494,7 +487,7 @@ const menu = [
     title: "Aloo Sukji Bhaji with Dry Fruits ",
     category: "Seasonal Vegetables",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://hindi.dheivegam.com/wp-content/uploads/2023/06/Aloo-Mungfali-Sabji-Recipe-in-Hindi.jpg",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -502,7 +495,7 @@ const menu = [
     title: "Aloo Kaju ",
     category: "Seasonal Vegetables",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "image/aloo_Kaju_Sabji.png",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -510,7 +503,7 @@ const menu = [
     title: "Aloo Chips ",
     category: "Seasonal Vegetables",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://i.ytimg.com/vi/_O8FFw6Kwb0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBDs8hHjrEuNNVNW1UM7Eu4ss7TxQ",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -518,7 +511,7 @@ const menu = [
     title: "Aloo Chips with Dry Fruits ",
     category: "Seasonal Vegetables",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://static.vecteezy.com/system/resources/previews/030/762/277/non_2x/mixed-dried-fruit-and-vegetable-chips-in-a-round-ceramic-plate-healthy-eating-photo.jpg",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -526,7 +519,7 @@ const menu = [
     title: "Gobi Mutter ",
     category: "Seasonal Vegetables",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://akm-img-a-in.tosshub.com/aajtak/images/story/202212/gobhi_matar-sixteen_nine.jpg?size=948:533",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -534,7 +527,7 @@ const menu = [
     title: "Beigan Masala ",
     category: "Seasonal Vegetables",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://myannoyingopinions.com/wp-content/uploads/2022/10/baingan-masala-with-mustard-small.jpg?w=584",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -542,7 +535,7 @@ const menu = [
     title: "Bharva Baigan ",
     category: "Seasonal Vegetables",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://i.pinimg.com/736x/11/a0/7a/11a07a7f1cd31fa1476581b9dfee17fd.jpg",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -550,7 +543,7 @@ const menu = [
     title: "Chhole",
     category: "Khthol/Usal/Pulses",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/bowl-filled-with-beans_23-2148746870.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_hybrid&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -558,7 +551,7 @@ const menu = [
     title: "Chhole with Paneer ",
     category: "Khthol/Usal/Pulses",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/bowl-filled-with-beans-top-view_23-2148746862.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_hybrid&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -566,7 +559,7 @@ const menu = [
     title: "Rajma ",
     category: "Khthol/Usal/Pulses",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/vertical-view-tomato-soup-brown-cutting-board-beans-mixed-color-table_140725-92025.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_hybrid&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -574,15 +567,15 @@ const menu = [
     title: "Maath Usal ",
     category: "Khthol/Usal/Pulses",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://holycowvegan.net/wp-content/uploads/2024/06/usal-sprouts-curry-2.jpg",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
     id: 428,
-    title: "ChhMoong Usal",
+    title: "Moong Usal",
     category: "Khthol/Usal/Pulses",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0p8nVe8f0lf2UFVxUaVwQkWYi8aCMcta46fjCcZYn3FncnsPkGOypHlsZ_WkydGT2d0Y&usqp=CAU",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -590,7 +583,7 @@ const menu = [
     title: "Masoor Usal ",
     category: "Khthol/Usal/Pulses",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/lentil-soup-with-vegetables-bowl-wooden-table_123827-30486.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_hybrid&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -598,7 +591,7 @@ const menu = [
     title: "Green Peas Usal ",
     category: "Khthol/Usal/Pulses",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://nikfoodamour.wordpress.com/wp-content/uploads/2019/02/snapseed-14.jpg",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -606,7 +599,7 @@ const menu = [
     title: "White Peas Usal ",
     category: "Khthol/Usal/Pulses",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/high-angle-chickpeas-soup-concept_23-2148648570.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_hybrid&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -614,7 +607,7 @@ const menu = [
     title: "Mix Usal ",
     category: "Khthol/Usal/Pulses",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://gaganactivoils.com/wp-content/uploads/2018/03/Mixed-Sprout-Usal.jpg",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -622,7 +615,7 @@ const menu = [
     title: "Chauli Usal ",
     category: "Khthol/Usal/Pulses",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sibyl_sunitha/Maharashtrian_Chavali_Chi_Usal_Recipe_Black_eyed_peas_Curry_Recipe.jpg",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -630,7 +623,7 @@ const menu = [
     title: "Vaal Usal ",
     category: "Khthol/Usal/Pulses",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://rustictadka.com/wp-content/uploads/2024/09/2-valache-birde-dalimbi-usal-Maharashtrian-traditional-curry-recipe-field-beans-vegan-vegetarian-keto-lunch-dinner-snacks-breakfast-easy-quick-simple-sprouts-rustic-tadka-viral.png",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -638,7 +631,7 @@ const menu = [
     title: "Deshi Vaal ",
     category: "Khthol/Usal/Pulses",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://i.ytimg.com/vi/6YDcU4PoW5Y/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCqxT_Y_CYXKpz0NvBtO9cTrch-0Qv",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -646,7 +639,7 @@ const menu = [
     title: "Dal/Kadhi ",
     category: "Dal/Kadhi/Rice/Raita",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/lentil-soup-lemon-sumakh-top-view_140725-11284.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_hybrid&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -654,7 +647,7 @@ const menu = [
     title: "Arhar Dal ",
     category: "Dal/Kadhi/Rice/Raita",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/top-view-delicious-lentil-soup-with-female-holding-plate-dark-bread-loafs-dark-surface_179666-35086.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_hybrid&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -662,7 +655,7 @@ const menu = [
     title: "Arhar Dal with mango ",
     category: "Dal/Kadhi/Rice/Raita",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://assets.telegraphindia.com/telegraph/2022/Jun/1654151892_whatsapp-image-2022-06-02-at-12-00-34-pm.jpg",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -670,7 +663,7 @@ const menu = [
     title: "Chana Dal ",
     category: "Dal/Kadhi/Rice/Raita",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/bowl-filled-with-beans-top-view_23-2148746862.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_hybrid&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -678,7 +671,7 @@ const menu = [
     title: "Gujarati Dal ",
     category: "Dal/Kadhi/Rice/Raita",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/top-close-up-view-lentil-soup-appetizing-lentil-soup-tomatoes-spices-lentil-herbs_140725-73527.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_hybrid&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -686,7 +679,7 @@ const menu = [
     title: "Panchmel Dal ",
     category: "Dal/Kadhi/Rice/Raita",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/concept-tasty-food-sweet-potato-puree-top-view_185193-109283.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_hybrid&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -694,7 +687,7 @@ const menu = [
     title: "Dal Fry ",
     category: "Dal/Kadhi/Rice/Raita",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/traditional-indian-soup-lentils-indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18717.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_hybrid&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -702,7 +695,7 @@ const menu = [
     title: "Yellow Dal Tadka ",
     category: "Dal/Kadhi/Rice/Raita",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "http://img.freepik.com/free-photo/half-top-view-delicious-vegetable-soup-inside-round-plate-dark-desk_140725-49474.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_hybrid&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -710,7 +703,7 @@ const menu = [
     title: "Lachko Dal ",
     category: "Dal/Kadhi/Rice/Raita",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/bowl-lentil-soup-black-wooden-table_140725-10682.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_hybrid&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -718,7 +711,7 @@ const menu = [
     title: "Osaman ",
     category: "Dal/Kadhi/Rice/Raita",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/top-view-lentils-soup-inside-plates-light-surface-color-seed-plant-soup-food-dish_140725-108944.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_hybrid&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -726,7 +719,7 @@ const menu = [
     title: "Dal Dhokli ",
     category: "Dal/Kadhi/Rice/Raita",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://i0.wp.com/binjalsvegkitchen.com/wp-content/uploads/2019/01/H1.jpg?fit=600%2C904&ssl=1",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -734,7 +727,7 @@ const menu = [
     title: "Dal Makhani ",
     category: "Dal/Kadhi/Rice/Raita",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/top-view-delicious-food-table_23-2150857716.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_hybrid&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -742,7 +735,7 @@ const menu = [
     title: "Papads",
     category: "Papad/Pickle",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/delicious-composition-nutritious-roti_23-2149034043.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_hybrid&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -750,7 +743,7 @@ const menu = [
     title: "Fry Papad ",
     category: "Papad/Pickle",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://dww3ueizok6z0.cloudfront.net/food/banner/9303-c71b112c332d7a28cdd57dfb206b19f57fe99e6f",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -758,7 +751,7 @@ const menu = [
     title: "Roasted Papad ",
     category: "Papad/Pickle",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/tortilla-near-organic-sauce-chili-peppers_23-2148254377.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_hybrid&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
