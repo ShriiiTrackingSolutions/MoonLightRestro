@@ -973,28 +973,36 @@ document.addEventListener("DOMContentLoaded", function () {
 
 // ✅ Keeps your original function for search, filter, and sorting
 /* <strong>$${value.price}</strong>  */
+/* <button class="btn" data-id="all" onclick="AddtoCart(${index})">Add to Cart</button> */
+
 function display(menuItems) {
   let dis = menuItems.map(function (value, index) {
-      return `
+    return `
       <div class="col-xl-3 col-lg-4 col-md-6">
-          <div class="wrap text-center">
-              <div class="imageContainer">
-                  <img src="${value.img}" alt="image">
-              </div>
-              <h4>${value.title}</h4>
-              <button class="btn" data-id="all" onclick="AddtoCart(${index})">Add to Cart</button>
+        <div class="wrap text-center">
+          <div class="imageContainer">
+            <img src="${value.img}" alt="image">
           </div>
+          <h4>${value.title}</h4>
+          <button 
+            class="btn" 
+            data-id="all" 
+            data-title="${value.title}" 
+            onclick="AddtoCart(this)">
+            Add to Cart
+          </button>
+        </div>
       </div>`;
   });
-  
-  const loadingDiv = document.createElement('div'); 
+
+  const loadingDiv = document.createElement('div');
   loadingDiv.id = 'loading';
   loadingDiv.textContent = 'Loading more products...';
-  
+
   document.getElementById('menu').innerHTML = dis.join(' ');
   document.getElementById('menu').appendChild(loadingDiv);
-
 }
+
 
 
 // DISPLAY BUTTON 
@@ -1098,20 +1106,26 @@ function updateCartCount() {
 }
 
 // Add to Cart function
-function AddtoCart(index) {
-    let selectedProduct = menu[index];
+function AddtoCart(button) {
+  const title = button.getAttribute("data-title");
+  const selectedProduct = menu.find(item => item.title === title);
 
-    let obj = cart.find(value => value.items.id === selectedProduct.id);
+  if (!selectedProduct) {
+    console.error("Product not found for title:", title);
+    return;
+  }
 
-    if (!obj) {
-        cart.push({ items: selectedProduct, quantity: 1 });
-    } else {
-        obj.quantity += 1;  // Fixed increment issue
-    }
+  let obj = cart.find(value => value.items.id === selectedProduct.id);
 
-    saveCart(); // Save updated cart
-    updateCartCount(); // Update count
-    mapCartItem(); // Refresh UI
+  if (!obj) {
+    cart.push({ items: selectedProduct, quantity: 1 });
+  } else {
+    obj.quantity += 1;
+  }
+
+  saveCart();
+  updateCartCount();
+  mapCartItem();
 }
 
 // Function to map cart items to UI
@@ -1140,6 +1154,8 @@ function mapCartItem() {
 
     totalprice(); // Update total price
 }
+
+
 
 // Function to clear the cart
 function clearCart() {
