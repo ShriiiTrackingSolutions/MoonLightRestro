@@ -607,7 +607,7 @@ const menu = [
     title: "Mix Usal ",
     category: "Khthol/Usal/Pulses",
     price: 15.99,
-    img: "https://gaganactivoils.com/wp-content/uploads/2018/03/Mixed-Sprout-Usal.jpg",
+    img: "https://india.neelamfoodland.in/cdn/shop/products/USAL_20MISAL_20MIX_2a6f8132-82ea-45e1-abb1-e6ee7b6af579_800x.jpg?v=1734379064",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -759,7 +759,7 @@ const menu = [
     title: "Masala Papad ",
     category: "Papad/Pickle",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/top-view-baked-bread-tasty-hot-brown-wooden-desk_140725-22323.jpg?t=st=1744346173~exp=1744349773~hmac=7d42292969fae3265f27968962be49feef932253d928a2386b8610681db16a5a&w=996",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -767,7 +767,7 @@ const menu = [
     title: "Khicha Papad ",
     category: "Papad/Pickle",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://5.imimg.com/data5/SELLER/Default/2023/6/317813351/RO/JM/BI/156918706/jeera-rice-khichiya-papad-500x500.jpeg",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -775,7 +775,7 @@ const menu = [
     title: "Papadi ",
     category: "Papad/Pickle",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://5.imimg.com/data5/SELLER/Default/2020/12/ZV/SJ/SU/100261295/papadi-gathiya.jpg",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -783,7 +783,7 @@ const menu = [
     title: "Pickles ",
     category: "Papad/Pickle",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/fresh-vegetable-dip-with-spicy-chili-pepper-seasoning-generated-by-ai_188544-43158.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_hybrid&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -791,7 +791,7 @@ const menu = [
     title: "Mango Spicy ",
     category: "Papad/Pickle",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/01/mango-pickle-recipe-500x375.jpg",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -799,7 +799,7 @@ const menu = [
     title: "Mango Sweet ",
     category: "Papad/Pickle",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://www.yummytummyaarthi.com/wp-content/uploads/2014/06/first.jpg",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -807,7 +807,7 @@ const menu = [
     title: "Lemon Spicy ",
     category: "Papad/Pickle",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://i0.wp.com/veenapatwardhan.com/pat-a-cake/wp-content/uploads/2024/05/Sweet-and-Spicy-Lime-Pickle.png?resize=500%2C400&ssl=1",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -815,7 +815,7 @@ const menu = [
     title: "Lemon Sweet ",
     category: "Papad/Pickle",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://www.awesomecuisine.com/wp-content/uploads/2015/03/Sweet-Lime-Pickle.jpg",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -823,7 +823,7 @@ const menu = [
     title: "Mix Veg. ",
     category: "Papad/Pickle",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://tiimg.tistatic.com/fp/1/007/098/mixed-spicy-vegetable-pickle-978.jpg",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -831,7 +831,7 @@ const menu = [
     title: "Salad",
     category: "Salads/Sp.Salads/Chutney",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/greek-salad-with-fresh-tomato-cucumber-red-onion-basil-feta-cheese-black-olives-italian-herbs_2829-4479.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_hybrid&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -839,7 +839,7 @@ const menu = [
     title: "Green Salad ",
     category: "Salads/Sp.Salads/Chutney",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/close-up-view-delicious-vegan-salad-with-fresh-ingredients-plate_179666-47139.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_hybrid&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -847,7 +847,7 @@ const menu = [
     title: "Macroni Salad ",
     category: "Salads/Sp.Salads/Chutney",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/roasted-chicken-legs-pasta-wood-piece_114579-72403.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_hybrid&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -855,7 +855,7 @@ const menu = [
     title: "Pasta Salad ",
     category: "Salads/Sp.Salads/Chutney",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/rotini-pasta-salad-with-arugula-cherry-tomatoes-healthy-summer-dish_53876-103649.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_hybrid&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -863,7 +863,7 @@ const menu = [
     title: "Mexican Salad ",
     category: "Salads/Sp.Salads/Chutney",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/top-view-appetizing-pozole-bowl_23-2149248632.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_hybrid&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -871,7 +871,7 @@ const menu = [
     title: "Sprouted Beans Salad ",
     category: "Salads/Sp.Salads/Chutney",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://data.thefeedfeed.com/static/2020/03/26/15852537945e7d0da226d64.webp",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -879,7 +879,7 @@ const menu = [
     title: "Corn Apple Salad ",
     category: "Salads/Sp.Salads/Chutney",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://cdn.vegetariantimes.com/wp-content/uploads/2009/02/sweet-potato-salad-with-apple-and-avocado-feb-2009-crop.jpg?crop=1:1&width=1000",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -887,7 +887,7 @@ const menu = [
     title: "Potato Salad ",
     category: "Salads/Sp.Salads/Chutney",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/premium-photo/warm-potato-salad-with-bacon-onion-fresh-herbs-vinegar-dressing-bowl-german-kartoffelsalat_114420-3806.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_hybrid&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -895,7 +895,7 @@ const menu = [
     title: "Corn Chana Salad ",
     category: "Salads/Sp.Salads/Chutney",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://pulses.org/nap/wp-content/uploads/2015/12/Charred-Chickpea-and-Corn-Salad.jpg",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -903,7 +903,7 @@ const menu = [
     title: "Aloo Chana Salad ",
     category: "Salads/Sp.Salads/Chutney",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://i.pinimg.com/736x/95/e5/ac/95e5ac7a05b994579369eb246d6b77c8.jpg",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -911,7 +911,7 @@ const menu = [
     title: "Tossed Green Salad ",
     category: "Salads/Sp.Salads/Chutney",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://img.freepik.com/free-photo/front-view-delicious-vegetable-salad-with-various-ingredients-dark-background_179666-47169.jpg?uid=R168699936&ga=GA1.1.1928394102.1727939130&semt=ais_hybrid&w=740",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -919,7 +919,7 @@ const menu = [
     title: "Hawaiian Salad ",
     category: "Salads/Sp.Salads/Chutney",
     price: 15.99,
-    img: "image/Pizza2.jfif",
+    img: "https://www.indianveggiedelight.com/wp-content/uploads/2021/05/Sprouted-moong-salad-featured.jpg",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
  
