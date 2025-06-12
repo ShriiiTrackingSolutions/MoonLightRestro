@@ -1234,6 +1234,43 @@ textarea {
 }
 /* Text Cards Section css End */
 
+/* Catering section start */
+.cateringSection{
+  background: linear-gradient(180deg, #00000094, #00000094) center/cover no-repeat, url('../image/CateringImage.webp') center/cover no-repeat;
+  color: #ffffff;
+}
+/* Catering section end */
+
+
+/* football turf section start */
+.footballTurf{
+   background-color: #ffffff;
+}
+.footballTurf .container>.row{
+  row-gap: 30px;
+}
+.footballTurf p{
+  color: var(--lightGrey);
+}
+/* football turf section end */
+
+.cafeSection{
+  background-image: linear-gradient(180deg, #00000094, #00000094), url('../image/CafeBack.webp');
+  background-position: center, center;
+  background-repeat: no-repeat, no-repeat;
+  background-size: cover, cover;
+  text-align: center;
+  color: #ffffff;
+}
+.maxPara{
+  max-width: 950px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.cafeSection .maxPara{
+  font-size: 18px;
+}
+
 /* Circle Image plus Text Section CSS Start */
 .CircleImagePlusText {
   background-color: #ffffff;
