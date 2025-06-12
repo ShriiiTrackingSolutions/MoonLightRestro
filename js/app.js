@@ -1138,7 +1138,6 @@ function mapCartItem() {
                 <div class="item-info">
                     <header>
                         <h4>${value.items.title}</h4>
-                        <h4 class="price">${value.items.price}</h4>
                     </header>
                     <div id="productQuantity">
                         <button class="_23FHuj" onclick="decQty(${index})"> – </button>
@@ -1152,7 +1151,6 @@ function mapCartItem() {
 
     document.getElementById('totalAmount').innerHTML = cartItemsHTML;
 
-    totalprice(); // Update total price
 }
 
 
@@ -1186,11 +1184,6 @@ function decQty(index) {
     mapCartItem();
 }
 
-// Calculate total price
-function totalprice() {
-    let total = cart.reduce((sum, item) => sum + (item.items.price * item.quantity), 0);
-    document.getElementById('amt').innerHTML = '<b>Total:</b> ' + total.toFixed(2);
-}
 
 // Load cart on page refresh
 window.onload = function () {

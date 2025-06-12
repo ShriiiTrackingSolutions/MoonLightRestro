@@ -1084,9 +1084,13 @@ textarea {
 .Appetizers ul li {
   border: 2px solid transparent;
   padding: 10px 15px;
+  text-align: center;
 }
 .Appetizers ul li:hover {
   border-color: var(--yellow);
+}
+.Appetizers .container>.row {
+  justify-content: space-between;
 }
 /* Appetizers Section Css end */
 
